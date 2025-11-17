@@ -8,7 +8,7 @@ mengelola file dan membuat laporan otomatis.
 
 ------------------------------------------------------------------------
 
-## 📁 Struktur Direktori Proyek
+##  Struktur Direktori Proyek
 
     project_sistem_operasi_ojan/
     ├── src/
@@ -21,7 +21,7 @@ mengelola file dan membuat laporan otomatis.
 
 ------------------------------------------------------------------------
 
-## 🎯 Tujuan Proyek
+##  Tujuan Proyek
 
 1.  Otomatisasi pembuatan direktori\
 2.  Mengelompokkan file berdasarkan ekstensi (txt, jpg, zip)\
@@ -31,7 +31,7 @@ mengelola file dan membuat laporan otomatis.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Fitur Utama Script
+##  Fitur Utama Script
 
 -   *Setup Direktori Otomatis*\
     Script membuat folder:
@@ -70,7 +70,7 @@ mengelola file dan membuat laporan otomatis.
 
 ------------------------------------------------------------------------
 
-## ▶️ Cara Menjalankan Script
+##  Cara Menjalankan Script
 
  bash
 cd ~/project_sistem_operasi_ojan
@@ -88,7 +88,7 @@ Ikuti menu untuk pilihan: 1. Setup Direktori\
 
 ------------------------------------------------------------------------
 
-## 🔧 Perintah Linux yang Digunakan
+##  Perintah Linux yang Digunakan
 
   Perintah        Kegunaan
   --------------- ----------------------------
@@ -108,7 +108,7 @@ Ikuti menu untuk pilihan: 1. Setup Direktori\
 
 ------------------------------------------------------------------------
 
-## 👤 Identitas Pembuat
+##  Identitas Pembuat
 
 *Nama:* Fauzan Al-Fakhri Muhamad\
 *NIM:* 05301425064\
@@ -118,7 +118,7 @@ Ikuti menu untuk pilihan: 1. Setup Direktori\
 
 ------------------------------------------------------------------------
 
-## 📌 Catatan Tambahan
+##  Catatan Tambahan
 
 -   Script sangat fleksibel dan bisa dikembangkan menjadi sistem backup
     otomatis.\
@@ -129,7 +129,7 @@ Ikuti menu untuk pilihan: 1. Setup Direktori\
 
 ------------------------------------------------------------------------
 
-## 🚀 Kesimpulan
+##  Kesimpulan
 
 Proyek ini memperlihatkan bagaimana perintah dasar Linux dapat
 digabungkan untuk membangun manajemen file otomatis yang efisien ---
