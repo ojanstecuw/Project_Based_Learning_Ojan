@@ -24,7 +24,7 @@ Jumlah file TXT : 21
 
 [DAFTAR FILE TERBARU]
 total 28
--rw-rw-r-- 1 ojan ojan  472 Nov 17 12:46 report.txt
-drwxrwxr-x 2 ojan ojan 4096 Nov 17 12:46 logs
-drwxrwxr-x 2 ojan ojan 4096 Nov 17 12:45 src
--rw-rw-r-- 1 ojan ojan 3771 Nov 17 12:19 README.md
+-rw-rw-r-- 1 fznmhmad fznmhmad  472 Nov 17 12:46 report.txt
+drwxrwxr-x 2 fznmhmad fznmhmad 4096 Nov 17 12:46 logs
+drwxrwxr-x 2 fznmhmad fznmhmad 4096 Nov 17 12:45 src
+-rw-rw-r-- 1 fznmhmad fznmhmad 3771 Nov 17 12:19 README.md
