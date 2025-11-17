@@ -17,14 +17,14 @@ Jumlah file TXT : 21
      20 zip
 
 [UKURAN DIREKTORI TOTAL]
-204K	/home/putra/project_sistem_operasi_ojan
+204K	/home/ojan/project_sistem_operasi_ojan
 
 [WC: Informasi README.md]
- 136  418 3771 /home/putra/project_sistem_operasi_ojan/README.md
+ 136  418 3771 /home/ojan/project_sistem_operasi_ojan/README.md
 
 [DAFTAR FILE TERBARU]
 total 28
--rw-rw-r-- 1 putra putra  472 Nov 17 12:46 report.txt
-drwxrwxr-x 2 putra putra 4096 Nov 17 12:46 logs
-drwxrwxr-x 2 putra putra 4096 Nov 17 12:45 src
--rw-rw-r-- 1 putra putra 3771 Nov 17 12:19 README.md
+-rw-rw-r-- 1 ojan ojan  472 Nov 17 12:46 report.txt
+drwxrwxr-x 2 ojan ojan 4096 Nov 17 12:46 logs
+drwxrwxr-x 2 ojan ojan 4096 Nov 17 12:45 src
+-rw-rw-r-- 1 ojan ojan 3771 Nov 17 12:19 README.md
