@@ -10,7 +10,7 @@ mengelola file dan membuat laporan otomatis.
 
 ## 📁 Struktur Direktori Proyek
 
-    project_sistem_operasi_putra/
+    project_sistem_operasi_ojan/
     ├── src/
     │   └── main.sh
     ├── documents/
